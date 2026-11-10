@@ -1,3 +1,7 @@
+# Databricks Lakebase Stock Watchlist App
+
+**About this repo:** built during the DataExpert.io Databricks AI Boot Camp, starting from the course boilerplate ([EcZachly/databricks-lakebase-app-day-1](https://github.com/EcZachly/databricks-lakebase-app-day-1)). I extended and deployed it as a stock watchlist app on Databricks Apps: add symbols, refresh prices from the Massive API, show related news, and delete watchlist records, with data in Lakebase PostgreSQL. The original boilerplate instructions follow.
+
 # Massive + Lakebase Databricks App Boilerplate
 
 A minimal Databricks App that:
